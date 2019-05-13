@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="1bf1b658-d5f7-4965-b5a1-75d174d4aeca" name="shop" url="http://shop.ggvabi.ru/subscribe">
+        <fileTransfer host="shop.ggvabi.ru" port="22" rootFolder="/var/www/html/shop" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

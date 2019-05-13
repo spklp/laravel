@@ -1,0 +1,1 @@
+<h2>Для подтверждения подписки передийте по ссылке: http://shop.ggvabi.ru/subscribe/?auth={{$key}}</h2>
